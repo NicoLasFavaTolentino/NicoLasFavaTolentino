@@ -1,11 +1,10 @@
 # Nicolas Fava Tolentino
 
-✨Olá, sou formado em Análise e Desenvolvimento de Sistemas pela UNISUL, com foco em desenvolvimento Back-End utilizando a linguagem Java. Atualmente, trabalho na MUTANT como Service Desk, onde utilizo ferramentas como JIRA, Zabbix, MySQL e Excel no meu dia a dia.
+✨Olá, sou formado em Análise e Desenvolvimento de Sistemas pela Universidade Cruzeiro do Sul. Meus estudos são focados em desenvolvimento Back-End utilizando a linguagem Java. Atualmente, trabalho na MUTANT como Service Desk, onde utilizo ferramentas como JIRA, Zabbix, MySQL e Excel no meu dia a dia.
 
 ## 🏢 Atuação Profissional
-- 🦍 Analista de suporte na MUTANT
-- 🎓 Análise e desenvolvimento de sistemas na [Unicsul](https://www.cruzeirodosul.edu.br/)
-
+- 🦍 Analista de suporte na [MUTANT](https://mutant.com.br/)
+- 🎓 Análise e desenvolvimento de sistemas na UNICSUL
 ## Redes Sociais 
 
 <a href="https://www.linkedin.com/in/nicolas-fava-tolentino-6aab3a215/" target="_blank">
